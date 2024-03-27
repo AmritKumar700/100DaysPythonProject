@@ -1,3 +1,5 @@
+#This project is going to split bills between n number of people going in restaurant also 
+#it will add tip enter by user in percent of total bill
 print("Welcome to calculator project Day_02:")
 
 print("Enter total Bill.")
